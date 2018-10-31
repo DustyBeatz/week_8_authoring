@@ -1,0 +1,28 @@
+body{
+    background: black; color: white;
+}
+
+p{
+    color: white;
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+section p {
+    margin-bottom: 20px;
+}
+
+.svg-graphic {
+    width:280px;
+    margin-right: 60px;
+}
+
+.main-header{
+    margin-bottom: 60px;
+}
+
+.beer-info{
+    display: inline-block; vertical-align: top; padding: 30px; border: thin solid white;
+}
